@@ -1,0 +1,14 @@
+{
+    "maker1": {
+        "name": "Andres Gil",
+        "id": "1"
+    },
+    "maker2": {
+        "name": "Juan Londoño",
+        "id": "2"
+    },
+    "maker3": {
+        "name": "Cristian Solarte",
+        "id": "3"
+    }
+}

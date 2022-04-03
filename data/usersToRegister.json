@@ -1,0 +1,24 @@
+{
+    "userRegClient": {
+        "rol": "cliente",
+        "name": "Esteban",
+        "lastName": "Lopez",
+        "userName": "EstebanLopez",
+        "password": "Esteban1234*",
+        "email": "esteban@gmail.com",
+        "phone": "3117142981",
+        "address": "Cartago valle, barrio el roble Mz 12 Cs 8"
+    },
+    "userRegMaker": {
+        "rol": "hacedor",
+        "name": "Felipe",
+        "lastName": "Botero",
+        "userName": "FelipeBotero",
+        "password": "Felpie1234*",
+        "email": "felipe@gmail.com",
+        "phone": "3027142981",
+        "address": "Medellin Antioquia, barrio el roble Mz 12 Cs 8",
+        "availability": "disponible",
+        "workRange": "Opero en todo el sector de antioquia"
+    }
+}

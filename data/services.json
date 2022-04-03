@@ -1,0 +1,14 @@
+{
+    "service1": {
+        "name": "Limpieza de alfombras",
+        "id": "1"
+    },
+    "service2": {
+        "name": "Pasear perros",
+        "id": "2"
+    },
+    "service3": {
+        "name": "Reparacion electrica",
+        "id": "3"
+    }
+}

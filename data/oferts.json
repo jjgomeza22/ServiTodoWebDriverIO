@@ -1,0 +1,14 @@
+{
+    "ofert1": {
+        "address": "Armenia-Quindio Barrio Mercedes del norte Mz 12 Cs 8",
+        "enable": "habilitar",
+        "date": "10/03/002022T18:00:00",
+        "price": 20000
+    },
+    "ofert2": {
+        "address": "Sevilla-Valle Barrio Mira flores del norte Mz 12 Cs 8",
+        "enable": "habilitar",
+        "date": "10/03/002022T13:00:00",
+        "price": 30000
+    }
+}

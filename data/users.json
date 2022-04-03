@@ -1,0 +1,12 @@
+{
+    "userClient": {
+        "email": "jjgomeza22@gmail.com",
+        "password": "Juanitoxfg1234",
+        "rol": "cliente"
+    },
+    "userMaker": {
+        "email": "afgil@gmail.com",
+        "password": "AndresitoGil1234",
+        "rol": "hacedor"
+    }
+}
